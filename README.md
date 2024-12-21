@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**RoyDibyaJyoti/RoyDibyaJyoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Dibya Jyoti Roy, a Computer Science and Engineering student at KUET (Khulna University of Engineering & Technology).
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on various software development projects.
+- 🌱 I’m currently learning Flutter and Python for development.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about programming, CSE, or any tech-related queries.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proficiencies
+- Python
+- C++
+- Web programming (HTML, CSS, JavaScript)
+
+### Achievements
+- 2nd runner-up position in National Children and Teens Programming Contest 2018 in junior group
+
+
+### Interests
+- Learning web development
+- AI/ML
+- Competitive Programming (CP)
+
+### Future Goals
+- AI/ML or Web Development or CP
+
+Thank you for visiting my profile!
