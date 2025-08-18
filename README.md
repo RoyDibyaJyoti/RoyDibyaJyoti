@@ -1,57 +1,100 @@
-## Hi there 👋  
+<a href="#"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RoyDibyaJyoti" /></a>
 
-I’m **Dibya Jyoti Roy**, a passionate **Computer Science & Engineering student at Andhra University**.  
-I love solving problems, building applications, and exploring new technologies.  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Dibya+Jyoti+Roy!;" />
+</h1>
 
----
+<h3 align="center">A passionate Computer Science & Engineering student at Andhra University</h3>
 
-### 🚀 About Me  
-- 🔭 Currently working on **software development projects** (Python, C++, and modern frameworks).  
-- 🌱 Learning **Flutter, Python, and Web Development** to expand my developer toolkit.  
-- 👯 Looking to collaborate on **open-source projects** and innovative software solutions.  
-- 💬 Ask me about **programming, algorithms, or tech-related topics**.  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dibya-usd/).  
+<br/>
 
----
+<div align="center">
+  
+ 🔭 Learning: **Flutter, Python, and Web Development.**  
+ 
+ 🚀 Projects: **Exploring software development, problem-solving & innovative ideas.**  
 
-### 🛠️ Tech Stack & Proficiencies  
+ 🎯 Achievements: **🏆 NHSPC 2018 (2nd Runner-up), President’s Scout of Bangladesh.**  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+ 🤝 Goals: **Collaborating on challenging projects, Open Source contributions, and excelling in AI/ML + CP.**  
 
----
+</div>
 
-### 🏆 Achievements  
-- 🥉 **2nd Runner-up** – *National Children & Teens Programming Contest (NCTPC) 2018* – Junior Group  
-- 🎖️ **President’s Scout of Bangladesh**  
-- 🥉 **2nd Runner-up** – *National High School Programming Contest (NHSPC) 2018* – Individual Category  
+<br/>
 
----
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/dibya-usd/">
+     <img height=40 src="https://github.com/utsaroy/utsaroy/blob/main/linkedin_badge.svg" target="_blank" />
+  </a> 
+    
+  <a href="https://facebook.com/owner.of.usdblog1999">
+     <img height=40 src="https://github.com/utsaroy/utsaroy/blob/main/facebook_badge.svg" target="_blank" />
+  </a> 
+  
+  <a href="https://instagram.com/djyotir003">
+     <img height=40 src="https://github.com/utsaroy/utsaroy/blob/main/instagram_badge.svg" target="_blank" />
+  </a>
+  
+  <a href="https://codeforces.com/profile/dibya_jyoti">
+     <img height=40 src="https://github.com/utsaroy/utsaroy/blob/main/codeforces_badge.svg" target="_blank" />
+  </a>
+</div>
 
-### 🌟 Interests  
-- 🌐 Web Development  
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🏁 Competitive Programming  
+</br>
+</br>
 
----
+<h2 align="center">🔮 Languages - Frameworks - Tools 🔮</h2>
+<br/>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript,flutter,git,github,vscode,linux,figma" />
+  </a>
+</p>
 
-### 🎯 Future Goals  
-- Gain expertise in **AI/ML**, **Web Development**, and **Competitive Programming**.  
-- Contribute to impactful **open-source projects**.  
-- Become a globally skilled **software engineer**.  
+<a href="#" align="center">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)" /> 
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)" /> 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" /> 
+<img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)" /> 
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)" /> 
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)" /> 
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" /> 
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)" />
+</a>
 
----
+<br/>
 
-### 📊 GitHub Stats  
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <a href="https://github.com/RoyDibyaJyoti?tab=repositories"><img width=390 height=200 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RoyDibyaJyoti&count_private=true&theme=react&border_radius=10" alt="streak stats"/></a>
+  <a href="https://github.com/RoyDibyaJyoti?tab=repositories"><img width=390 height=200 src="https://github-readme-stats-salesp07.vercel.app/api?username=RoyDibyaJyoti&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></a>
+  <br/>
+  <a href="https://github.com/RoyDibyaJyoti?tab=repositories"><img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RoyDibyaJyoti&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" /></a>
+</div>
 
-![Dibya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoyDibyaJyoti&show_icons=true&theme=tokyonight)  &nbsp; &nbsp; &nbsp;   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyDibyaJyoti&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RoyDibyaJyoti&theme=tokyonight)  
+<br/><br/>
 
----
+<div align="center">
+  <h2>📈 Contribution Graph</h2>
+  <br>
+  <a href="https://github.com/RoyDibyaJyoti">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoyDibyaJyoti&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true"/>
+  </a>
+</div>
 
-### 📈 Contribution Graph  
+<br/><br/>
 
-[![Dibya’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RoyDibyaJyoti&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/RoyDibyaJyoti)  
+<div align="center">
+  <h2>🔝 Top Contributed Repo</h2>
+  <br>
+  <a href="https://github.com/RoyDibyaJyoti?tab=repositories"><img src="https://github-contributor-stats.vercel.app/api?username=RoyDibyaJyoti&limit=5&theme=dark&combine_all_yearly_contributions=true"/></a>
+</div>
 
----
+<br/><br/>
+<hr/>
+</br></br>
 
-✨ Thanks for visiting my profile! Feel free to check out my repositories and connect 🚀  
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /></div>
+
+</br></br>
