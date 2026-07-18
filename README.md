@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Dibya%20Jyoti%20Roy&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CSE%20Student%20%40%20Andhra%20University%20%7C%20Java%2C%20Python%20%26%20AI&descAlignY=62&descAlign=50&descSize=20" width="100%" alt="Header banner: Dibya Jyoti Roy" />
+![Header banner: Dibya Jyoti Roy](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Dibya%20Jyoti%20Roy&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CSE%20Student%20%40%20Andhra%20University%20%7C%20Java%2C%20Python%20%26%20AI&descAlignY=62&descAlign=50&descSize=20)
 
 <a href="https://github.com/RoyDibyaJyoti">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Second-year+CSE+Student+at+Andhra+University;Passionate+about+Object-Oriented+Programming;Building+clean%2C+efficient+software+solutions;Exploring+AI-Powered+Security+Tools+%F0%9F%94%90;Daily+LeetCode+Problem+Solver+%F0%9F%93%88;Consistency+beats+intensity.+%F0%9F%9A%80" alt="Typing animation" />
@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoyDibyaJyoti&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=fff&icon_color=00ff00&text_color=ffffff&bg_color=00000000" width="48%" alt="RoyDibyaJyoti's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyDibyaJyoti&layout=compact&theme=radical&hide_border=true&title_color=fff&text_color=ffffff&bg_color=00000000" width="38%" alt="Most used languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=RoyDibyaJyoti&show_icons=true&theme=radical&hide_border=true&title_color=fff&icon_color=00ff00&text_color=ffffff&bg_color=00000000" width="48%" alt="RoyDibyaJyoti's GitHub stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=RoyDibyaJyoti&layout=compact&theme=radical&hide_border=true&title_color=fff&text_color=ffffff&bg_color=00000000" width="38%" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@
   <a href="https://www.linkedin.com/in/dibya-usd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/DibyaJyotiRoy03" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
   <a href="https://leetcode.com/u/dibya_jyoti_roy/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:INSERT_YOUR_EMAIL_HERE" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:djyotir003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center"><em><br/>"First, solve the problem. Then, write the code." — John Johnson<br/></em></p>
