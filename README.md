@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header banner: Dibya Jyoti Roy](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Dibya%20Jyoti%20Roy&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CSE%20Student%20%40%20Andhra%20University%20%7C%20Java%2C%20Python%20%26%20AI&descAlignY=62&descAlign=50&descSize=20)
+![Header banner: Dibya Jyoti Roy](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Dibya%20Jyoti%20Roy&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CSE%20Student%20%40%20Andhra%20University%20%7C%20Java%2C%20Python%20and%20AI&descAlignY=62&descAlign=50&descSize=20)
 
 <a href="https://github.com/RoyDibyaJyoti">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Second-year+CSE+Student+at+Andhra+University;Passionate+about+Object-Oriented+Programming;Building+clean%2C+efficient+software+solutions;Exploring+AI-Powered+Security+Tools+%F0%9F%94%90;Daily+LeetCode+Problem+Solver+%F0%9F%93%88;Consistency+beats+intensity.+%F0%9F%9A%80" alt="Typing animation" />
